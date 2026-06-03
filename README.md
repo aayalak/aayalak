@@ -1,8 +1,6 @@
 
 # Adrián Ayala 👋
 
-# Adrián Ayala
-
 Desarrollador .NET con experiencia en sistemas administrativos y de gestión.
 
 Trabajo en desarrollo de aplicaciones web, APIs REST, mantenimiento evolutivo, bases de datos, consultas SQL, reportes, automatización de procesos y análisis funcional técnico.
