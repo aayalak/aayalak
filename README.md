@@ -1,48 +1,61 @@
 
 # Adrián Ayala 👋
 
-Analista Desarrollador de Sistemas con experiencia en análisis funcional, desarrollo .NET y sistemas administrativos de gestión.
+# Adrián Ayala
 
-Trabajo principalmente en relevamiento de requerimientos, documentación funcional, análisis de procesos, desarrollo de soluciones web, soporte técnico-funcional y mantenimiento evolutivo de sistemas.
+Desarrollador .NET con experiencia en sistemas administrativos y de gestión.
+
+Trabajo en desarrollo de aplicaciones web, APIs REST, mantenimiento evolutivo, bases de datos, consultas SQL, reportes, automatización de procesos y análisis funcional técnico.
+
+Mi experiencia combina desarrollo de software con participación en relevamiento, documentación funcional, pruebas y soporte post implementación. Esto me permite entender el proceso de negocio y trabajar sobre soluciones técnicas que respondan a una necesidad concreta.
+
+Este espacio lo uso para ordenar proyectos, prácticas técnicas y prototipos vinculados a desarrollo web, sistemas de gestión, automatización y Python aplicado a procesos e imágenes.
 
 ## Áreas de experiencia
 
-- Análisis funcional y relevamiento de requerimientos
-- Sistemas administrativos y de gestión
-- Desarrollo web con .NET
-- APIs REST
-- Documentación funcional
-- Casos de uso e historias de usuario
-- Pruebas funcionales y soporte post implementación
-- Automatización de procesos administrativos
+* Desarrollo web con .NET
+* APIs REST
+* Sistemas administrativos y de gestión
+* Mantenimiento evolutivo de aplicaciones
+* Bases de datos, consultas SQL y reportes
+* Automatización de procesos administrativos
+* Desarrollo de scripts y prototipos con Python
+* Análisis funcional técnico
+* Relevamiento de requerimientos
+* Pruebas funcionales y soporte post implementación
 
 ## Tecnologías y herramientas
 
-C# · .NET · ASP.NET · API REST · MVC · Blazor · Entity Framework · NHibernate · SQL · UML · BPMN · Scrum
+C# · .NET · ASP.NET · API REST · MVC · Blazor · Entity Framework · NHibernate · SQL · SQLite · PostgreSQL · Oracle · Python · FastAPI · HTML · CSS · UML · BPMN · Scrum
 
-## Proyectos propios en preparación
+## Proyectos y experiencia destacada
 
-Estoy ordenando algunos proyectos propios para publicarlos como casos de práctica y referencia técnica:
+### Licencias de conducir e infracciones de tránsito
 
-- Sistema de stock para una distribuidora
-- Modelo inicial para gestión de reparto
-- Automatización de procesos administrativos
-- Pruebas de concepto vinculadas a visión por computadora aplicada a imágenes de campo
+Participación en desarrollos vinculados a sistemas de emisión de licencias de conducir de la Provincia de Buenos Aires, incluyendo componentes relacionados con procesos homologados a nivel nacional.
+
+También participé en desarrollos vinculados a infracciones de tránsito, gestión de datos, consultas, reportes, mantenimiento evolutivo y soporte técnico-funcional.
+
+### Biometría e integración con Neurotechnology
+
+Participación en soluciones relacionadas con biometría e integración con herramientas de Neurotechnology, en el marco de sistemas administrativos y operativos.
+
+### Sistemas administrativos y de gestión pública
+
+Experiencia en análisis, desarrollo y mantenimiento de aplicaciones web administrativas, sistemas internos, sitios institucionales, gestión de turnos, atención a usuarios, legajos digitales, consultas frecuentes y herramientas de gestión.
+
+### Sistemas de Tesorería y procesos administrativos
+
+Participación en el mantenimiento y evolución de sistemas administrativos vinculados a procesos internos, relevamiento de requerimientos, documentación funcional, pruebas, soporte post implementación y trabajo conjunto con áreas usuarias y equipos técnicos.
+
+### Kiwi Vision Lab
+
+Proyecto propio en desarrollo orientado a explorar visión por computadora aplicada a imágenes de campo.
+
+El trabajo realizado incluye armado de datasets, pruebas con modelos de detección de objetos, procesamiento de imágenes, detección de frutos, análisis de capturas y diseño inicial de una arquitectura para registrar recorridas, imágenes y resultados de detección.
+
+Actualmente se encuentra como proyecto experimental/trunco, pero documenta una línea de trabajo vinculada a Python, modelos YOLO, procesamiento de imágenes e IA aplicada a un caso agropecuario real.
 
 ## Contacto
 
-LinkedIn: www.linkedin.com/in/adrianayala
-<!--
-**aayalak/aayalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: [www.linkedin.com/in/adrianayala](http://www.linkedin.com/in/adrianayala)
